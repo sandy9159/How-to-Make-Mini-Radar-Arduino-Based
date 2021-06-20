@@ -15,7 +15,8 @@ JLCPCB is one of the top leader in PCB manufacturing.
 
 ## VIDEO ##
 https://youtu.be/60Vaq52BPk8
-<iframe width="560" height="315" src="https://www.youtube.com/embed/60Vaq52BPk8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[![](https://img.youtube.com/vi/60Vaq52BPk8/0.jpg)](https://www.youtube.com/watch?v=60Vaq52BPk8)
 
 This is the complete  video of the proect you can watch here How I
 build this cool gadget at homme and hw nicely it works

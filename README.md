@@ -14,7 +14,6 @@ For this project I have develop a custom made PCB and get it manufactured from [
 JLCPCB is one of the top leader in PCB manufacturing.
 
 ## VIDEO ##
-https://youtu.be/60Vaq52BPk8
 
 [![](https://img.youtube.com/vi/60Vaq52BPk8/0.jpg)](https://www.youtube.com/watch?v=60Vaq52BPk8)
 
@@ -50,6 +49,20 @@ There is four main components of this project
 
 ![FDTX96DJSSTYAQZ](https://user-images.githubusercontent.com/19898602/122661962-1e21a180-d1ad-11eb-8eb7-6e8b9cf5540d.png)
 
+## CUSTOM MADE PCB ##
+
+![A3](https://user-images.githubusercontent.com/19898602/122663819-e1f53d80-d1ba-11eb-8929-472ee2f69472.JPG)
+![A4](https://user-images.githubusercontent.com/19898602/122663820-e3266a80-d1ba-11eb-917f-5125248cf39f.JPG)
+![A5](https://user-images.githubusercontent.com/19898602/122663821-e3bf0100-d1ba-11eb-9ab1-d2d3045d0caf.JPG)
+
+
+I am using here a cutom made PCB using PCB for your project is very much important.
+you will get good result, neat and clean wiring and professional look for your project.
+I designe this two layer PCB and ordered it from [JLCPCB](https://jlcpcb.com/IAT)
+I always prefer [JLCPCB](https://jlcpcb.com/IAT) because there PCB prices are very cheap
+currently thay have Special offer: $2 for 1-4 Layer PCBs, free SMT assembly monthly
+and If you register yourself today on [JLCPCB](https://jlcpcb.com/IAT) you will get $18 coupons exclusively 
+So what are you waiting for just visit  [JLCPCB](https://jlcpcb.com/IAT)
 
 
 ## 3D FILES ## 
@@ -107,9 +120,6 @@ to its place. The HC-SR4 sensor is connected with servo motor.
 Install this library in arduino IDE before compiling
 https://github.com/olikraus/ucglib
 
-## CUSTOM MADE PCB ##
-First of all here is the link of schematic of this project https://easyeda.com/editor#id=83c4ed4101c84bb68950179a24ab4322
 
-PCB is the heart of this project, I have design like all the components must be surface mount on PCB so there is a big challenge is in front of me how to manage to buy different different components on my own. it quite difficult to get them all in time. so i came to know about PCB + SMT service of JLCPCB.COM like JLCPCB offering complete PCB with components solder on it. they have huge collection of components to choose from. this was so much help full for me it save my lots of time and money by using PCB + SMT service of https://jlcpcb.com/IAT and now there is also one good news for you you can now earn 10$ coupon for from JLCPCB just use https://easyeda.com/editor to design your PCB and order it from https://jlcpcb.com/IAT Design & Order on EasyEDA, PCB+SMT $10 Off: https://easyeda.com/editor Get $10 coupon & Join JLC&EDA Group: https://jlcpcb.com/EDA https://www.youtube.com/watch?v=rUtlYrG-U5g Watch full video https://www.youtube.com/watch?v=R9FUyvKBm8k
 
 

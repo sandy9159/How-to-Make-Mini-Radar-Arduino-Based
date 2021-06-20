@@ -15,6 +15,7 @@ JLCPCB is one of the top leader in PCB manufacturing.
 
 ## VIDEO ##
 https://youtu.be/60Vaq52BPk8
+<iframe width="560" height="315" src="https://www.youtube.com/embed/60Vaq52BPk8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 This is the complete  video of the proect you can watch here How I
 build this cool gadget at homme and hw nicely it works
@@ -62,6 +63,42 @@ I have a Tevo Tarantula printer i have printed all parts on dark green PLA at 50
 After printing all the parts or you can design your own model
 
 if you don't have access to a 3D printer then you can use material like acrylic sheet or cardboard sheet.
+
+
+![A1](https://user-images.githubusercontent.com/19898602/122663228-7e691100-d1b6-11eb-9431-4af2924453d8.JPG)
+
+First I have design the parts in CAD software, then I 3D printed those
+Parts using PLA filament you can download all the 3D files links are given above.
+
+
+![A2](https://user-images.githubusercontent.com/19898602/122663229-7f01a780-d1b6-11eb-8ced-51d81340f313.JPG)
+
+Then I arrange all the required electronics components.
+As you can see here, I used components like
+Arduino nano
+HC-SR04 Ultrasonic Sensor
+Tower pro servo motor
+1.8” ST7735 DISPLAY
+9V Battery
+
+
+![A5](https://user-images.githubusercontent.com/19898602/122663230-7f9a3e00-d1b6-11eb-9866-c270eea9bb17.JPG)
+
+Then I soldered some header pins on PCB and placed components on to them
+
+![A6](https://user-images.githubusercontent.com/19898602/122663231-7f9a3e00-d1b6-11eb-9cd9-8bbf99b04080.JPG)
+
+This PCB placed inside the 3D printed box this is the base portion of our radar
+
+![A7](https://user-images.githubusercontent.com/19898602/122663232-8032d480-d1b6-11eb-874b-43270f508f0f.JPG)
+
+After placing all the components & battery inside the radar I placed the top cover 
+to its place. The HC-SR4 sensor is connected with servo motor.
+
+
+![A8](https://user-images.githubusercontent.com/19898602/122663227-7d37e400-d1b6-11eb-9274-eded28f92592.JPG)
+
+
 
 
 ## ARDUINO LIBRARY ##

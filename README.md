@@ -13,12 +13,25 @@ For this project I have develop a custom made PCB and get it manufactured from [
 
 JLCPCB is one of the top leader in PCB manufacturing.
 
+
+
+
+
+
+
+
+
+
 ## VIDEO ##
 
 [![](https://img.youtube.com/vi/60Vaq52BPk8/0.jpg)](https://www.youtube.com/watch?v=60Vaq52BPk8)
 
 This is the complete  video of the proect you can watch here How I
 build this cool gadget at homme and hw nicely it works
+
+
+
+
 
 ## COMPONENTS ##
 There is four main components of this project
@@ -44,6 +57,11 @@ There is four main components of this project
 **1.8" ST7735 Dispaly** :- https://www.instructables.com/How-to-Make-Mini-Radar-Arduino-Based/
 
 
+
+
+
+
+
 ## CIRCUIT DRAWING ##
 
 
@@ -63,6 +81,10 @@ I always prefer [JLCPCB](https://jlcpcb.com/IAT) because there PCB prices are ve
 currently thay have Special offer: $2 for 1-4 Layer PCBs, free SMT assembly monthly
 and If you register yourself today on [JLCPCB](https://jlcpcb.com/IAT) you will get $18 coupons exclusively 
 So what are you waiting for just visit  [JLCPCB](https://jlcpcb.com/IAT)
+
+
+
+
 
 
 ## 3D FILES ## 
@@ -115,8 +137,11 @@ to its place. The HC-SR4 sensor is connected with servo motor.
 
 
 
+
+
 ## ARDUINO LIBRARY ##
 
+You can download the arduino code attached above
 Install this library in arduino IDE before compiling
 https://github.com/olikraus/ucglib
 
